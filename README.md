@@ -38,4 +38,4 @@ These are the top ten most frequent words in the example song.
 | ah         | 3     |
 The chorus says both "songs" and "redemption" the most, so this result is what I was expecting.
 
-![frequencychart](https://raw.githubusercontent.com/samgedwillo/Spark-Scala-WordCount/images/frequencychart.PNG "frequencychart")
+![frequencychart](https://github.com/samgedwillo/Spark-Scala-WordCount/blob/master/images/frequencychart.png "frequencychart")
