@@ -24,6 +24,7 @@ Hello, my name is Sam Gedwillo and I am a senior in Computer Science at Northwes
 
 ## Results Graphs
 These are the top ten most frequent words in the example song.
+
 | word       | count |
 |------------|-------|
 | songs      | 12    |
@@ -36,6 +37,7 @@ These are the top ten most frequent words in the example song.
 | help       | 3     |
 | sing       | 3     |
 | ah         | 3     |
+
 The chorus says both "songs" and "redemption" the most, so this result is what I was expecting.
 
 ![frequencychart](https://github.com/samgedwillo/Spark-Scala-WordCount/blob/master/images/frequencychart.png "frequencychart")
